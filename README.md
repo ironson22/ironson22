@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I have been Learning to Code throughout my education at Grand Canyon University, I am currently working toward my Bachelors of Science and Technology in Software and Development with a Minor in Cyber Security. I have worked with various languages and stacks, I am familiar with Java, C#, HTML, CSS and JavaScript, Some Database languages I am familiar with is SQL, MySql and Mongo. I have used a few different tools while in school like: Postman, Springboot, Eclipse, Sublime Text, Visual Studio Code, MySql Workbench, Visual Studio 2022, GIt Kracken, Github Desktop Some of the Operating System I am Familiar with using are Ubuntu, Windows 7-11, OSX-Ventura, and Kali Linux
+I have been Learning to Code throughout my education at Grand Canyon University, I am currently working toward my Bachelors of Science and Technology in Software Development with a Minor in Cyber Security. I have worked with various languages and stacks, I am familiar with Java, C#, HTML, CSS and JavaScript, Some Database languages I am familiar with is SQL, MySql and Mongo. I have used a few different tools while in school like: Postman, Springboot, Eclipse, Sublime Text, Visual Studio Code, MySql Workbench, Visual Studio 2022, GIt Kracken, Github Desktop Some of the Operating System I am Familiar with using are Ubuntu, Windows 7-11, OSX-Ventura, and Kali Linux
 
 * 🌍  I'm based in Goodyear, Ariozona
 * ✉️  You can contact me at [vincentsanchez.56@gmail.com](mailto:vincentsanchez.56@gmail.com)
